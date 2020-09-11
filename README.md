@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aMandyDev/aMandyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é Amanda! 
+[ttps://img.shields.io/badge/-LinkedIn-blue&linkhttps://www.linkedin.com/in/amanda-gomes-60740b6a]
+Os mais chegados me chamam de Mandy, 
+Sou Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta de  Tecnologia, 
+onde venho adquiriando conhecimento com rico conteúdo nesta minha transição de carreira para 
+a área de tecnologia! 
+
