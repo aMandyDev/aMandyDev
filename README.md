@@ -16,6 +16,6 @@ Meu nome é Amanda!
 
 Os mais chegados me chamam de Mandy, 
 Sou Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta de  Tecnologia, 
-onde venho adquiriando conhecimento com rico conteúdo nesta minha transição de carreira para 
+onde venho adquirindo conhecimento com ricos conteúdos nesta minha transição de carreira para 
 a área de tecnologia! 
 Em breve mais detalhes.
