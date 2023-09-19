@@ -1,21 +1,16 @@
 <!--
-**aMandyDev/aMandyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aMandyDev/aMandyDev** is a ✨ ..Perfil em Manutenção(19/09/23) ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 Meu nome é Amanda! 
 
 Os mais chegados me chamam de Mandy, 
-Sou Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta de  Tecnologia, 
-onde venho adquirindo conhecimento com ricos conteúdos nesta minha transição de carreira para 
-a área de tecnologia! 
-Em breve mais detalhes.
+Sou Uma Desenvolvedora FullStack, trabalhei anteriormente com as seguintes tecnologias: 
+- ReactJS
+- NodeJS
+- JavaScript
+- TypeScrypt
+- MongoDb
+- AWS
+- SEO 
+- NextJS
