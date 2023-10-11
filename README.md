@@ -1,4 +1,4 @@
-✨ ..Perfil em Manutenção(19/09/23) ✨
+✨ ..Perfil em Manutenção(11/10/23) ✨
 Meu nome é Amanda! 
 
 Os mais chegados me chamam de Mandy, 
