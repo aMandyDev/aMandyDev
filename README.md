@@ -13,7 +13,7 @@ Olá! Sou uma profissional de Tecnologia formada em Análise e Desenvolvimento d
 
 3.Área do Aluno: Lideramos a construção de um ambiente para acesso a aulas em vídeo, excertos, PDFs, além de questionários interativos e suporte a dúvidas. Uma jornada repleta de lições valiosas.
 
-Trabalhando com tecnologias como Node, Next, React, Typescript, MongoDB, CSS, Styled Components e AWS, fortaleci minha adaptabilidade e desejo contínuo de aprendizado. Comprometida com o crescimento da equipe, promovo um ambiente colaborativo e produtivo, compartilhando conhecimento e incentivando o desenvolvimento profissional.
+Trabalhando com tecnologias como NodeJs, NextJs, ReactJs, Typescript, MongoDB, CSS, Styled Components e AWS, fortaleci minha adaptabilidade e desejo contínuo de aprendizado. Comprometida com o crescimento da equipe, promovo um ambiente colaborativo e produtivo, compartilhando conhecimento e incentivando o desenvolvimento profissional.
 
 Estou aberta a novas conexões e conversas sobre tecnologia. Se quiser trocar ideias ou explorar oportunidades de colaboração, estou à disposição!
 
